@@ -1,308 +1,319 @@
 <div align="center">
 
-<img src="https://gifdb.com/images/high/donkey-kong-diddy-smash-bros-yen8buzizetcat79.webp" width="180" alt="Donkey Kong animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0f172a,100:38bdf8&text=Diego%20Ewerton&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn" />
 
-# Diego Ewerton
-
-### Desenvolvedor Front-end · JavaScript · TypeScript · React
-
-Recife, Pernambuco — Brasil  
-Interfaces web, sistemas administrativos, portais de serviços e aplicações responsivas.
+<img src="https://gifdb.com/images/high/donkey-kong-diddy-smash-bros-yen8buzizetcat79.webp" width="150" alt="Donkey Kong" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-diegocoodes-181717?style=for-the-badge&logo=github)](https://github.com/diegocoodes)
-[![Email](https://img.shields.io/badge/Email-diegoosilvaewerton%40gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoosilvaewerton@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Desenvolvedor+Front-end;JavaScript+%7C+TypeScript+%7C+React;Interfaces+web+%7C+Portais+%7C+Sistemas+administrativos" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=CBD5E1&center=true&vCenter=true&width=760&lines=Recife%2C+Pernambuco+%E2%80%94+Brasil;Projetos+web%2C+servi%C3%A7os+digitais+e+aplica%C3%A7%C3%B5es+responsivas" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/diegocoodes">
+  <img src="https://img.shields.io/badge/GitHub-diegocoodes-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:diegoosilvaewerton@gmail.com">
+  <img src="https://img.shields.io/badge/Email-diegoosilvaewerton%40gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Sobre
+<div align="center">
 
-<img align="right" src="https://i.pinimg.com/originals/4e/47/20/4e47202de45f6f4ecffe2466b6a868ec.gif" width="260" alt="Developer animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=420&lines=Sobre" alt="Sobre" />
 
-Desenvolvedor com foco em criação de **interfaces web**, **landing pages**, **portais institucionais**, **sistemas administrativos** e **aplicações responsivas**.
+</div>
 
-Meus repositórios concentram projetos em **TypeScript**, **JavaScript**, **React**, **HTML**, **CSS** e **EJS**, com aplicações voltadas para chamados, cadastros, serviços públicos, negócios locais, conteúdo regional e projetos comerciais.
+<img align="right" src="https://i.pinimg.com/originals/4e/47/20/4e47202de45f6f4ecffe2466b6a868ec.gif" width="240" alt="Developer animation" />
 
-Também utilizo bancos de dados relacionais em projetos e estudos práticos, incluindo **MySQL** e **PostgreSQL**.
+Desenvolvedor com foco em **interfaces web**, **landing pages**, **portais institucionais**, **sistemas administrativos** e **aplicações responsivas**.
+
+Os projetos do meu GitHub passam por áreas como suporte interno, serviços públicos, negócios locais, saúde, finanças, conteúdo regional e portfólios profissionais.
+
+Trabalho principalmente com **TypeScript**, **JavaScript**, **React**, **HTML**, **CSS** e **EJS**. Também utilizo **MySQL** e **PostgreSQL** em projetos com cadastro, consulta e persistência de dados.
 
 <br clear="right"/>
 
 ---
 
-## Stack principal
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&width=520&lines=Stack+Principal" alt="Stack Principal" />
+
+</div>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![EJS](https://img.shields.io/badge/EJS-0F172A?style=for-the-badge&logo=ejs&logoColor=B4CA65)
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/EJS-020617?style=for-the-badge&logo=ejs&logoColor=B4CA65" />
 
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<br/>
 
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </div>
 
 ---
 
-## Projetos em destaque
-
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎧 chamado-x</h3>
-      <p align="center">
-        Plataforma para gerenciamento de chamados e suporte interno de TI.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/chamado-x">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Suporte_TI-22C55E?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 congenial-spork</h3>
-      <p align="center">
-        Portal de serviços com foco em organização de informações e acesso rápido.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/congenial-spork">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Portal-38BDF8?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">💅 BeautyFlow</h3>
-      <p align="center">
-        Interface para serviços da área de beleza, com foco em apresentação e gestão.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/BeautyFlow">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Negócio_local-A855F7?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🍔 BurguerChef</h3>
-      <p align="center">
-        Projeto comercial para hamburgueria, com layout moderno e responsivo.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/BurguerChef">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Landing_page-F97316?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">✂️ BarbeInfinity</h3>
-      <p align="center">
-        Projeto web para barbearia, focado em presença digital e serviços.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/BarbeInfinity">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Serviços-22C55E?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌎 Descubra Pernambuco</h3>
-      <p align="center">
-        Blog de notícias, turismo e conteúdo regional sobre Pernambuco.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/blog-descubra-pernambuco">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Conteúdo_regional-14B8A6?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">💼 CNPJS</h3>
-      <p align="center">
-        Projeto com foco financeiro, consulta de dados e organização de informações.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/CNPJS">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/Dados-38BDF8?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏛️ Prefeitura</h3>
-      <p align="center">
-        Telas e formulários para projeto institucional.
-      </p>
-      <p align="center">
-        <a href="https://github.com/diegocoodes/Prefeitura">
-          <img src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Institucional-22C55E?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=A855F7&center=true&vCenter=true&width=650&lines=Projetos+em+Destaque" alt="Projetos em Destaque" />
 
 </div>
 
+<br/>
+
+### 🎧 chamado-x
+
+Gerenciamento de chamados e suporte interno de TI.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/chamado-x)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Suporte TI](https://img.shields.io/badge/Suporte_TI-22C55E?style=flat-square)
+
 ---
 
-## Tipos de entrega
+### 🌐 congenial-spork
+
+Portal de serviços com organização de informações.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/congenial-spork)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Portal](https://img.shields.io/badge/Portal-38BDF8?style=flat-square)
+
+---
+
+### 💅 BeautyFlow
+
+Interface para serviços da área de beleza.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BeautyFlow)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Negócio local](https://img.shields.io/badge/Negócio_local-A855F7?style=flat-square)
+
+---
+
+### 🍔 BurguerChef
+
+Projeto comercial para hamburgueria.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BurguerChef)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Landing page](https://img.shields.io/badge/Landing_page-F97316?style=flat-square)
+
+---
+
+### 🏋️ personal
+
+Sistema para personal trainer.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/personal)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Saúde](https://img.shields.io/badge/Saúde-22C55E?style=flat-square)
+
+---
+
+### ✂️ BarbeInfinity
+
+Projeto web para barbearia.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BarbeInfinity)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Serviços](https://img.shields.io/badge/Serviços-14B8A6?style=flat-square)
+
+---
+
+### 🌎 Descubra Pernambuco
+
+Blog de notícias e turismo de Pernambuco.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/blog-descubra-pernambuco)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Conteúdo](https://img.shields.io/badge/Conteúdo-38BDF8?style=flat-square)
+
+---
+
+### 💼 CNPJS
+
+Projeto financeiro e consulta de dados.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/CNPJS)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Dados](https://img.shields.io/badge/Dados-22C55E?style=flat-square)
+
+---
+
+### 📝 recadastramento
+
+Sistema de recadastramento.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/recadastramento)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=000)
+![Cadastro](https://img.shields.io/badge/Cadastro-F97316?style=flat-square)
+
+---
+
+### 🏛️ Prefeitura
+
+Telas de cadastro para projeto institucional.
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/Prefeitura)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Institucional](https://img.shields.io/badge/Institucional-38BDF8?style=flat-square)
+
+---
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🛠️</h3>
-      <strong>Sistemas internos</strong>
-      <br/>
-      <span>Chamados, cadastros e recadastramento</span>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏛️</h3>
-      <strong>Portais de serviço</strong>
-      <br/>
-      <span>Páginas institucionais e serviços públicos</span>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏪</h3>
-      <strong>Negócios locais</strong>
-      <br/>
-      <span>Barbearia, beleza, hamburgueria e serviços</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📰</h3>
-      <strong>Conteúdo regional</strong>
-      <br/>
-      <span>Blogs, turismo e páginas informativas</span>
-    </td>
-    <td align="center" width="33%">
-      <h3>📊</h3>
-      <strong>Interfaces administrativas</strong>
-      <br/>
-      <span>Formulários, dashboards e telas de gestão</span>
-    </td>
-    <td align="center" width="33%">
-      <h3>🗄️</h3>
-      <strong>Dados</strong>
-      <br/>
-      <span>Consultas, cadastros e persistência</span>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=F97316&center=true&vCenter=true&width=600&lines=Tipos+de+Entrega" alt="Tipos de Entrega" />
 
 </div>
 
+<br/>
+
+### 🛠️ Sistemas internos
+
+Chamados, cadastros e recadastramento.
+
+![Chamados](https://img.shields.io/badge/Chamados-020617?style=for-the-badge)
+![Cadastros](https://img.shields.io/badge/Cadastros-020617?style=for-the-badge)
+![Recadastramento](https://img.shields.io/badge/Recadastramento-020617?style=for-the-badge)
+
 ---
 
-## Certificações e cursos
+### 🏛️ Portais de serviço
+
+Páginas institucionais e serviços públicos.
+
+![Institucional](https://img.shields.io/badge/Institucional-020617?style=for-the-badge)
+![Serviços públicos](https://img.shields.io/badge/Serviços_públicos-020617?style=for-the-badge)
+
+---
+
+### 🏪 Negócios locais
+
+Barbearia, beleza, hamburgueria e serviços.
+
+![Barbearia](https://img.shields.io/badge/Barbearia-020617?style=for-the-badge)
+![Beleza](https://img.shields.io/badge/Beleza-020617?style=for-the-badge)
+![Hamburgueria](https://img.shields.io/badge/Hamburgueria-020617?style=for-the-badge)
+
+---
+
+### 📰 Conteúdo regional
+
+Blogs, turismo e páginas informativas.
+
+![Blogs](https://img.shields.io/badge/Blogs-020617?style=for-the-badge)
+![Turismo](https://img.shields.io/badge/Turismo-020617?style=for-the-badge)
+![Pernambuco](https://img.shields.io/badge/Pernambuco-020617?style=for-the-badge)
+
+---
+
+### 📊 Interfaces administrativas
+
+Formulários, dashboards e telas de gestão.
+
+![Formulários](https://img.shields.io/badge/Formulários-020617?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-020617?style=for-the-badge)
+![Gestão](https://img.shields.io/badge/Gestão-020617?style=for-the-badge)
+
+---
+
+### 🗄️ Dados
+
+Consultas, cadastros e persistência.
+
+![Consultas](https://img.shields.io/badge/Consultas-020617?style=for-the-badge)
+![Persistência](https://img.shields.io/badge/Persistência-020617?style=for-the-badge)
+![Banco de dados](https://img.shields.io/badge/Banco_de_dados-020617?style=for-the-badge)
+
+---
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏆 GitHub Certifications</h3>
-      <p>GitHub</p>
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🟨 JavaScript Developer</h3>
-      <p>DIO</p>
-      <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔧 Git e GitHub</h3>
-      <p>DIO</p>
-      <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-    </td>
-    <td align="center" width="50%">
-      <h3>📋 Qualidade de Projetos</h3>
-      <p>UNIBRA</p>
-      <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=trello&logoColor=38BDF8" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎮 Gamificação</h3>
-      <p>UNIBRA</p>
-      <img src="https://img.shields.io/badge/Gamificação-111827?style=for-the-badge&logo=gamejolt&logoColor=22C55E" />
-    </td>
-    <td align="center" width="50%">
-      <h3>☕ Java Programming</h3>
-      <p>Geek University</p>
-      <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=EAB308&center=true&vCenter=true&width=720&lines=Certifica%C3%A7%C3%B5es+e+Cursos" alt="Certificações e Cursos" />
 
 </div>
 
+<br/>
+
+### 🏆 GitHub Certifications
+
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
-## Atividade no GitHub
+### 🟨 JavaScript Developer
+
+![DIO](https://img.shields.io/badge/DIO-020617?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### 🔧 Versionamento com Git e GitHub
+
+![DIO](https://img.shields.io/badge/DIO-020617?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📋 Gestão em Qualidade de Projetos
+
+![UNIBRA](https://img.shields.io/badge/UNIBRA-020617?style=for-the-badge)
+![Projetos](https://img.shields.io/badge/Projetos-020617?style=for-the-badge)
+
+---
+
+### 🎮 Gamificação para Engajamento
+
+![UNIBRA](https://img.shields.io/badge/UNIBRA-020617?style=for-the-badge)
+![Gamificação](https://img.shields.io/badge/Gamificação-020617?style=for-the-badge)
+
+---
+
+### 🌐 Introduction to HTML and CSS
+
+![Udemy](https://img.shields.io/badge/Udemy-020617?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-020617?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-020617?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+---
+
+### ☕ Introduction to Programming Using Java
+
+![Geek University](https://img.shields.io/badge/Geek_University-020617?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316)
+
+---
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/a6/69/d5/a669d5d78968bbc6aa0f9abb2e17df58.gif" width="320" alt="Coding animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=650&lines=Atividade+no+GitHub" alt="Atividade no GitHub" />
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegocoodes&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=22c55e&area=true&hide_border=true&custom_title=Contribuições%20no%20GitHub" alt="Gráfico de atividade no GitHub" />
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegocoodes&bg_color=020617&color=cbd5e1&line=38bdf8&point=22c55e&area=true&hide_border=true&custom_title=Contribuições%20e%20Atividade" alt="Gráfico de atividade no GitHub" />
 
 <br/><br/>
 
@@ -315,12 +326,31 @@ Também utilizo bancos de dados relacionais em projetos e estudos práticos, inc
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diegocoodes&theme=tokyonight&utcOffset=-3" alt="Horário produtivo" />
 
 </div>
----------
-## Contato
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/diegoosilvaewerton%40gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoosilvaewerton@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com%2Fdiegocoodes-181717?style=for-the-badge&logo=github)](https://github.com/diegocoodes)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&width=420&lines=Contato" alt="Contato" />
+
+</div>
+
+<div align="center">
+
+<a href="mailto:diegoosilvaewerton@gmail.com">
+  <img src="https://img.shields.io/badge/diegoosilvaewerton%40gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/diegocoodes">
+  <img src="https://img.shields.io/badge/github.com%2Fdiegocoodes-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:0f172a,100:020617" />
 
 </div>
