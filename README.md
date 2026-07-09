@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0f172a,100:38bdf8&text=Diego%20Ewerton&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,50:0f172a,100:38bdf8&text=Diego%20Ewerton&fontColor=ffffff&fontSize=44&fontAlignY=35&animation=fadeIn" />
 
-<img src="https://gifdb.com/images/high/donkey-kong-diddy-smash-bros-yen8buzizetcat79.webp" width="150" alt="Donkey Kong" />
+<img src="https://i.pinimg.com/originals/76/b4/64/76b4645640120014ba9c4fb26dbd40fd.gif" width="260" alt="Developer animation" />
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Desenvolvedor+Front-end;JavaScript+%7C+TypeScript+%7C+React;Interfaces+web+%7C+Portais+%7C+Sistemas+administrativos" alt="Typing SVG" />
 
@@ -32,15 +32,11 @@
 
 </div>
 
-<img align="right" src="https://i.pinimg.com/originals/4e/47/20/4e47202de45f6f4ecffe2466b6a868ec.gif" width="240" alt="Developer animation" />
-
 Desenvolvedor com foco em **interfaces web**, **landing pages**, **portais institucionais**, **sistemas administrativos** e **aplicações responsivas**.
 
-Os projetos do meu GitHub passam por áreas como suporte interno, serviços públicos, negócios locais, saúde, finanças, conteúdo regional e portfólios profissionais.
+Os projetos do meu GitHub passam por áreas como **suporte interno**, **serviços públicos**, **negócios locais**, **saúde**, **finanças**, **conteúdo regional** e **portfólios profissionais**.
 
 Trabalho principalmente com **TypeScript**, **JavaScript**, **React**, **HTML**, **CSS** e **EJS**. Também utilizo **MySQL** e **PostgreSQL** em projetos com cadastro, consulta e persistência de dados.
-
-<br clear="right"/>
 
 ---
 
@@ -80,103 +76,11 @@ Trabalho principalmente com **TypeScript**, **JavaScript**, **React**, **HTML**,
 
 <br/>
 
-### 🎧 chamado-x
-
-Gerenciamento de chamados e suporte interno de TI.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/chamado-x)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Suporte TI](https://img.shields.io/badge/Suporte_TI-22C55E?style=flat-square)
-
----
-
-### 🌐 congenial-spork
-
-Portal de serviços com organização de informações.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/congenial-spork)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Portal](https://img.shields.io/badge/Portal-38BDF8?style=flat-square)
-
----
-
-### 💅 BeautyFlow
-
-Interface para serviços da área de beleza.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BeautyFlow)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Negócio local](https://img.shields.io/badge/Negócio_local-A855F7?style=flat-square)
-
----
-
-### 🍔 BurguerChef
-
-Projeto comercial para hamburgueria.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BurguerChef)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Landing page](https://img.shields.io/badge/Landing_page-F97316?style=flat-square)
-
----
-
-### 🏋️ personal
-
-Sistema para personal trainer.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/personal)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Saúde](https://img.shields.io/badge/Saúde-22C55E?style=flat-square)
-
----
-
-### ✂️ BarbeInfinity
-
-Projeto web para barbearia.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BarbeInfinity)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Serviços](https://img.shields.io/badge/Serviços-14B8A6?style=flat-square)
-
----
-
-### 🌎 Descubra Pernambuco
-
-Blog de notícias e turismo de Pernambuco.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/blog-descubra-pernambuco)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Conteúdo](https://img.shields.io/badge/Conteúdo-38BDF8?style=flat-square)
-
----
-
-### 💼 CNPJS
-
-Projeto financeiro e consulta de dados.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/CNPJS)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Dados](https://img.shields.io/badge/Dados-22C55E?style=flat-square)
-
----
-
-### 📝 recadastramento
-
-Sistema de recadastramento.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/recadastramento)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=000)
-![Cadastro](https://img.shields.io/badge/Cadastro-F97316?style=flat-square)
-
----
-
-### 🏛️ Prefeitura
-
-Telas de cadastro para projeto institucional.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/Prefeitura)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Institucional](https://img.shields.io/badge/Institucional-38BDF8?style=flat-square)
+| 🎧 chamado-x | 💅 BeautyFlow | 🍔 BurguerChef |
+|---|---|---|
+| Sistema para gerenciamento de chamados e suporte interno de TI. | Interface para serviços da área de beleza, com foco em apresentação e gestão. | Projeto comercial para hamburgueria com layout responsivo. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Suporte](https://img.shields.io/badge/Suporte_TI-22C55E?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Beleza](https://img.shields.io/badge/Beleza-A855F7?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Landing Page](https://img.shields.io/badge/Landing_page-F97316?style=flat-square) |
+| [![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/chamado-x) | [![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BeautyFlow) | [![Repositório](https://img.shields.io/badge/Ver_repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegocoodes/BurguerChef) |
 
 ---
 
@@ -188,62 +92,15 @@ Telas de cadastro para projeto institucional.
 
 <br/>
 
-### 🛠️ Sistemas internos
+| 🛠️ Sistemas internos | 🏛️ Portais de serviço | 🏪 Negócios locais |
+|---|---|---|
+| Chamados, cadastros e recadastramento. | Páginas institucionais e serviços públicos. | Barbearia, beleza, hamburgueria e serviços. |
+| ![Chamados](https://img.shields.io/badge/Chamados-020617?style=for-the-badge) | ![Institucional](https://img.shields.io/badge/Institucional-020617?style=for-the-badge) | ![Negócios locais](https://img.shields.io/badge/Negócios_locais-020617?style=for-the-badge) |
 
-Chamados, cadastros e recadastramento.
-
-![Chamados](https://img.shields.io/badge/Chamados-020617?style=for-the-badge)
-![Cadastros](https://img.shields.io/badge/Cadastros-020617?style=for-the-badge)
-![Recadastramento](https://img.shields.io/badge/Recadastramento-020617?style=for-the-badge)
-
----
-
-### 🏛️ Portais de serviço
-
-Páginas institucionais e serviços públicos.
-
-![Institucional](https://img.shields.io/badge/Institucional-020617?style=for-the-badge)
-![Serviços públicos](https://img.shields.io/badge/Serviços_públicos-020617?style=for-the-badge)
-
----
-
-### 🏪 Negócios locais
-
-Barbearia, beleza, hamburgueria e serviços.
-
-![Barbearia](https://img.shields.io/badge/Barbearia-020617?style=for-the-badge)
-![Beleza](https://img.shields.io/badge/Beleza-020617?style=for-the-badge)
-![Hamburgueria](https://img.shields.io/badge/Hamburgueria-020617?style=for-the-badge)
-
----
-
-### 📰 Conteúdo regional
-
-Blogs, turismo e páginas informativas.
-
-![Blogs](https://img.shields.io/badge/Blogs-020617?style=for-the-badge)
-![Turismo](https://img.shields.io/badge/Turismo-020617?style=for-the-badge)
-![Pernambuco](https://img.shields.io/badge/Pernambuco-020617?style=for-the-badge)
-
----
-
-### 📊 Interfaces administrativas
-
-Formulários, dashboards e telas de gestão.
-
-![Formulários](https://img.shields.io/badge/Formulários-020617?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards-020617?style=for-the-badge)
-![Gestão](https://img.shields.io/badge/Gestão-020617?style=for-the-badge)
-
----
-
-### 🗄️ Dados
-
-Consultas, cadastros e persistência.
-
-![Consultas](https://img.shields.io/badge/Consultas-020617?style=for-the-badge)
-![Persistência](https://img.shields.io/badge/Persistência-020617?style=for-the-badge)
-![Banco de dados](https://img.shields.io/badge/Banco_de_dados-020617?style=for-the-badge)
+| 📰 Conteúdo regional | 📊 Interfaces administrativas | 🗄️ Dados |
+|---|---|---|
+| Blogs, turismo e páginas informativas. | Formulários, dashboards e telas de gestão. | Consultas, cadastros e persistência. |
+| ![Conteúdo](https://img.shields.io/badge/Conteúdo-020617?style=for-the-badge) | ![Dashboards](https://img.shields.io/badge/Dashboards-020617?style=for-the-badge) | ![Banco de dados](https://img.shields.io/badge/Banco_de_dados-020617?style=for-the-badge) |
 
 ---
 
@@ -255,53 +112,15 @@ Consultas, cadastros e persistência.
 
 <br/>
 
-### 🏆 GitHub Certifications
+| 🏆 GitHub Certifications | 🟨 JavaScript Developer | 🔧 Git e GitHub |
+|---|---|---|
+| Certificação voltada ao ecossistema GitHub. | Formação em JavaScript pela DIO. | Versionamento com Git e GitHub pela DIO. |
+| ![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032) |
 
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🟨 JavaScript Developer
-
-![DIO](https://img.shields.io/badge/DIO-020617?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
----
-
-### 🔧 Versionamento com Git e GitHub
-
-![DIO](https://img.shields.io/badge/DIO-020617?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📋 Gestão em Qualidade de Projetos
-
-![UNIBRA](https://img.shields.io/badge/UNIBRA-020617?style=for-the-badge)
-![Projetos](https://img.shields.io/badge/Projetos-020617?style=for-the-badge)
-
----
-
-### 🎮 Gamificação para Engajamento
-
-![UNIBRA](https://img.shields.io/badge/UNIBRA-020617?style=for-the-badge)
-![Gamificação](https://img.shields.io/badge/Gamificação-020617?style=for-the-badge)
-
----
-
-### 🌐 Introduction to HTML and CSS
-
-![Udemy](https://img.shields.io/badge/Udemy-020617?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-020617?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-020617?style=for-the-badge&logo=css3&logoColor=1572B6)
-
----
-
-### ☕ Introduction to Programming Using Java
-
-![Geek University](https://img.shields.io/badge/Geek_University-020617?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316)
+| 📋 Qualidade de Projetos | 🎮 Gamificação | ☕ Java Programming |
+|---|---|---|
+| Gestão em Qualidade de Projetos pela UNIBRA. | Gamificação para Engajamento pela UNIBRA. | Introduction to Programming Using Java. |
+| ![Projetos](https://img.shields.io/badge/Projetos-020617?style=for-the-badge) | ![Gamificação](https://img.shields.io/badge/Gamificação-020617?style=for-the-badge) | ![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316) |
 
 ---
 
